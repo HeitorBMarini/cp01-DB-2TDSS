@@ -1,5 +1,5 @@
-# cp01-DB-2TDSS
-## Feito por:
+# Cp01-DB-2TDSS
+## Made with:
 
 - Heitor Borba Marini RM 92976
 - Isa Mary Kusuki Yabiku RM 93307
@@ -7,9 +7,9 @@
 - Giovana Abreu RM 95896
 - Ruan Santos Dias RM 94528
 
-## Sala 2TDSS
+## Class 2TDSS
 
-## Prints do banco
+## Prints of Database
 
 <div>
     <br/>

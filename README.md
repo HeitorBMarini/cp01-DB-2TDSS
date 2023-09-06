@@ -51,7 +51,11 @@
     <img src="img/TriggerPrint.PNG" alt="Trigger Print">
     
 </div>
+<br/>
+<div align="center">
 
-![Badge da Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_Corporation_logo.svg/200px-Oracle_Corporation_logo.svg.png)
+![Badge da Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Badge do SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 
-![Badge do SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sql_logo.svg/200px-Sql_logo.svg.png)
+</div>
+

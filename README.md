@@ -56,6 +56,9 @@
 
 ![Badge da Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Badge do SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![Badge do Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Badge de Database](https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=database&logoColor=white)
+
 
 </div>
 
